@@ -1,6 +1,6 @@
 # Rachel-s-Book-Search-Engine
 
-![A screenshot of the web page](./assets/image/screenshot.png)
+![A screenshot of the web page](./client/public/images/screenshot.png)
 
 ## **Table of Contents**
 
@@ -20,6 +20,8 @@
 - https://github.com/rsolov23/Rachel-s-Book-Search-Engine
 
 ### **Heroku Link**
+
+- https://radiant-harbor-51102.herokuapp.com/
 
 ### **Contribution**
 
